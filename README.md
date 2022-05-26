@@ -1,4 +1,4 @@
-# Rush 01 - Go Piscine
+# Team 01 - Go Intensive
 
 ## Warehouse 13
 
