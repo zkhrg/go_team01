@@ -1,4 +1,4 @@
-# Team 01 - Go Intensive
+# Team 01 - Go Boot camp
 
 ## Warehouse 13
 
